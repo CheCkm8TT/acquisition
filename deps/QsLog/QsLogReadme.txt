@@ -33,4 +33,4 @@ The Qt docs say: A thread-safe function can be called simultaneously from multip
 
 Since sending the log message to the destinations is protected by a mutex, the logging macros are thread-safe provided that the log has been initialized - i.e: instance() has been called. The instance function and the setup functions (e.g: setLoggingLevel, addDestination) are NOT thread-safe and are NOT reentrant.
 
-Test
+tatatetaetaetez
